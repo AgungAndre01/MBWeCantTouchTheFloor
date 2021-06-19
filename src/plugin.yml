@@ -1,0 +1,8 @@
+name: MBWeCantTouchTheFloor
+main: me.Andre.MBWeCantTouchTheFloor.Main
+version: 0.0.1
+api-version: 1.13
+
+commands:
+  startMBWeCantTouchTheFloor:
+  stopMBWeCantTouchTheFloor:
